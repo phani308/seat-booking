@@ -19,3 +19,5 @@ To use the flight reservation system, run the `flightReservation.py` script with
 
 ```sh
 python flightReservation.py [Action] [Starting Seat] [Number of consecutive seats]
+
+
